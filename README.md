@@ -9,4 +9,4 @@
 ---
 ![Google ](https://www.google.co.th/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
 
-![NUXT](https://www.facebook.com/photo.php?fbid=1628686573834155&set=a.344902622212563.71554.100000784843979)
+![NUXT  ](https://www.facebook.com/photo.php?fbid=1628686573834155)
