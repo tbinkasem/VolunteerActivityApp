@@ -11,7 +11,7 @@ export default {
         this.name += '*' 
       } ,1000)
       return {
-        name: 'Narupon Noothong Lpt..'
+        name: 'Narupon Noothong Lpt'
       }
   }
 }
