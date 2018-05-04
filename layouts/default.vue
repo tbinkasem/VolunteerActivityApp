@@ -2,12 +2,14 @@
   <v-app>
     <v-navigation-drawer v-model="drawer" app right/>
     <v-toolbar app>
-      <v-toolbar-title>VueApp</v-toolbar-title>
+      <v-toolbar-title>กิจกรรมจิตอาสา</v-toolbar-title>
       <v-spacer/>
       <v-toolbar-side-icon @click.stop="drawer = !drawer"/>
     </v-toolbar>
     <v-content>
-      <nuxt/>
+      <v-container>
+        <nuxt />
+      </v-container>
     </v-content>
   </v-app>
 </template>
