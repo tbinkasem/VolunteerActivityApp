@@ -1,15 +1,12 @@
 <template>
   <div>
-    <h1>Volunteer Activity Application</h1>
+    <h1>กิจกรรมจิตอาสาสะสมความดี</h1>
   </div>
 </template>
+
 <script>
 export default {
-  data() {
-    return {
-      
-    }
-  },
+  
 }
 </script>
 
