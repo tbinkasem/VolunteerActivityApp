@@ -68,7 +68,7 @@
       dialog: false,
       headers: [
         {
-          text: 'Dessert (100g serving)',
+          text: 'รายการกิจกรรม',
           align: 'left',
           sortable: false,
           value: 'name'
@@ -130,14 +130,6 @@
             carbs: 37,
             protein: 4.3
           },
-          
-          {
-            name: 'KitKat',
-            calories: 518,
-            fat: 26.0,
-            carbs: 65,
-            protein: 7
-          }
         ]
       },
 
